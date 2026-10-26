@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+
+# Uploaded photos and database files
+uploads/
+data/
+
+# Logs
+*.log
